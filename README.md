@@ -4,8 +4,7 @@
 
 <h2>Introduction</h2>
 
-The application will be working as a web based solution for familys recipes to be contained in a single easy access website. It will have a way for new users to be created who can add, edit, delete and browse recipes that the other users (family members) will be adding in the website. It is going to have sections for different types of recipes and a way to for quickly searching based on keywords and categories.
+The application will be working as a web based solution for familys recipes to be contained in a single easy access website where they can add, edit, comment, delete and browse recipes.
 
-For more specific details go to:
+For more in depth details go to [specifications](https://github.com/Branuz/FamilyHub/blob/main/documents/specifications.md)
 
-[specifications](https://github.com/Branuz/FamilyHub/blob/main/documents/specifications.md)
